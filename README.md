@@ -104,22 +104,6 @@ Open `frontend/index.html` in any modern browser. No build step required.
 
 ---
 
-## 💰 Monetization & Commercial Use
-
-This repository is source-available for **demonstration and evaluation only**.
-
-| Use Case | Status |
-|---|---|
-| Personal / academic use | ✅ Allowed with attribution |
-| Commercial deployment | ❌ Requires a paid license |
-| White-label / SaaS resale | ❌ Requires enterprise agreement |
-| API integration in products | ❌ Requires partnership agreement |
-
-To discuss licensing, SaaS deployment, or white-labeling:
-**→ Open an [Issue](https://github.com/swordenkisk/quantum-learning-matrix/issues) or contact via GitHub profile.**
-
----
-
 ## 🛣️ Roadmap
 
 - [x] Quantum circuit encoding + local simulator
